@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: MrWei的博客 | Hux Blog
+title: Mr.Wei Blog
+SEOTitle: MrWei的博客 | Mr.Wei Blog
 header-img: img/home-bg.jpg
 email: weiybchd@163.com
 description: "关于后端，前段技术的博客"
-keyword: " MrWei的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
+keyword: " MrWei的博客, 博客, 个人网站, 互联网, Web, JavaScript, 前端"
 url: "https://https://codermrwei.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
